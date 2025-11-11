@@ -1,0 +1,3 @@
+title: "Manoji P — Automation Test Engineer"
+description: "SDET | 4 Years Experience | Java, Selenium, Playwright, Azure DevOps"
+theme: jekyll-theme-minimal
